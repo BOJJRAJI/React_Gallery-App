@@ -1,0 +1,11 @@
+.image {
+  height: 60px;
+  width: 60px;
+}
+.item-container {
+  list-style-type: none;
+  margin-left: 10px;
+}
+.button {
+  border: none;
+}
